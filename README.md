@@ -25,4 +25,5 @@
 16. [Генераторы](generators)
 17. [Асинхронные функции и промисы](promise)
 
+## Блок 5. Дипломный проект
 18. [Дипломный проект курса JavaScript](https://github.com/netology-code/js-game)
